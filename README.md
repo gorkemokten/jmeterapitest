@@ -1,2 +1,2 @@
 # jmeterapitest
-RESTAPI Test for Comparing Weather Conditions for The Two Cities.
+This is RESTAPI Test for Comparing Weather Conditions for The Two Cities.
