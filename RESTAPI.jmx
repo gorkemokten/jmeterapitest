@@ -111,7 +111,7 @@ String yagisli=[&quot;Snow&quot;,&quot;Thunderstorm&quot;,&quot;Drizzle&quot;,&q
     }
     var testmessage=pm.environment.get(&quot;İl1Durum&quot;)
     pm.test(&quot;İl1 Hava Durumu=&quot;+testmessage)
-    });
+    }); //
     }); */
 </stringProp>
           </JSR223Assertion>
