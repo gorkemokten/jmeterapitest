@@ -194,7 +194,7 @@ if (Failure) {
 	vars.put(&quot;karsilastirma&quot;,&quot;Failed&quot;);
      log.info(&quot;İki Durum da Farklı&quot;);
 }
-else
+   else
 {
 	vars.put(&quot;karsilastirma&quot;,&quot;Passed&quot;);
      log.info(&quot;İki durum da Aynı&quot;);
