@@ -183,7 +183,7 @@ String yagisli=[&quot;Snow&quot;,&quot;Thunderstorm&quot;,&quot;Drizzle&quot;,&q
         	log.info(&quot;il2 yağışsız&quot;);
       }
     		
-    		//OUT.print(durum);
+    		OUT.print(durum);
 
 String var1 = vars.get(&quot;il1Durum&quot;);
 String var2 = vars.get(&quot;il2Durum&quot;);
