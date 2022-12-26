@@ -93,7 +93,6 @@ String yagisli=[&quot;Snow&quot;,&quot;Thunderstorm&quot;,&quot;Drizzle&quot;,&q
         	log.info(&quot;il1 Yağışsız&quot;);
       }
     		
-    		OUT.print();
      
 /*pm.test(&quot;1. il Hava Durumu&quot;,function(){
     pm.sendRequest(baseUrl+&quot;/data/2.5/weather?q=&quot;+il1+&quot;&amp;appid=&quot;+apiKey, function (err, response) {
